@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0C2A-9FF5
+
+ Directory of C:\Users\Darko\Desktop\MyProject
+
+04.05.2019  00:01    <DIR>          .
+04.05.2019  00:01    <DIR>          ..
+04.05.2019  00:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  48.011.055.104 bytes free
